@@ -1,0 +1,1 @@
+java ExamCalculator2 < test.txt

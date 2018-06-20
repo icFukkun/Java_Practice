@@ -1,0 +1,19 @@
+This_is_a_pen charAt 3
+What_is_this? charAt 0
+abcdefghi endsWith ghi
+abcdefghi endsWith gh
+abcdefghi startsWith ab
+abcdefghi startsWith bc
+father equals father
+father equals Father
+abcabcabc indexOf bc
+abcabcabc indexOf bc 2
+abcabcabc lastIndexOf bc
+abcd length
+abcabcabcaaa replace c e
+My_mother_made_this_basket replace m ?
+abcdef substring 2
+hamberger substring 4 8
+this_is_a_book toUpperCase
+AsDbbHH toLowerCase
+bye

@@ -1,0 +1,1 @@
+java ExamStringMethod < test.txt
