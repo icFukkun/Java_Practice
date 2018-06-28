@@ -1,7 +1,0 @@
-ExamZenkasiki
-ExamHistogram
-ExamRisoku
-ExamCombination
-ExamPermutation3
-ExamDivide
-ExamDivide2

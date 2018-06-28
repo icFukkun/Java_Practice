@@ -1,1 +1,0 @@
-ExamGColorRing64.html

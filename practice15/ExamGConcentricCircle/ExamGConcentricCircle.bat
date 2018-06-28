@@ -1,1 +1,0 @@
-ExamGConcentricCircle.html

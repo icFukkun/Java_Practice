@@ -1,1 +1,0 @@
-ExamGHelloApplet.html

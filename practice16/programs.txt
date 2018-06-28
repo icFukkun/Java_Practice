@@ -1,6 +1,0 @@
-ExamGHinomaru
-ExamGPiChart
-ExamGBarChart1
-ExamGNPolygon
-ExamGClockface
-ExamGFace

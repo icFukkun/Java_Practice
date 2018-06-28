@@ -1,1 +1,0 @@
-ExamGPyramid.html

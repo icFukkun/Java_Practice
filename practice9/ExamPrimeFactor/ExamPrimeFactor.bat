@@ -1,1 +1,0 @@
-java ExamPrimeFactor 126

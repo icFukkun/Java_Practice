@@ -1,5 +1,0 @@
-ExamWarizan
-ExamKeta
-ExamBinary
-ExamTurisen
-ExamTax

@@ -1,5 +1,0 @@
-ExamCircle
-ExamDaikei
-ExamFunc
-ExamToRadians
-ExamRegistor2

@@ -1,7 +1,0 @@
-ExamAverage
-ExamMul
-ExamMin
-ExamPow
-ExamRegistor
-ExamTousa
-ExamTouhi

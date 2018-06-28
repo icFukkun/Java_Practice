@@ -1,6 +1,0 @@
-ExamOutside
-ExamShiftR
-ExamShiftL
-ExamMul21
-ExamBitOr
-ExamBitNot

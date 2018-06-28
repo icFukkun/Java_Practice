@@ -1,4 +1,0 @@
-ExamGHelloApplet
-ExamGTestAppletMethod
-ExamGAppletParameter
-ExamGFileReadApplet

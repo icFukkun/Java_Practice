@@ -1,1 +1,0 @@
-ExamGCalc.html

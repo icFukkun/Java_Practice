@@ -1,1 +1,0 @@
-ExamGBarChart1.html

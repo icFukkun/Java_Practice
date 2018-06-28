@@ -1,1 +1,0 @@
-ExamGMouseClicked1.html

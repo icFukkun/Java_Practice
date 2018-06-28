@@ -1,1 +1,0 @@
-ExamGMousePressAndRelease.html

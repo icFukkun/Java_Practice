@@ -1,5 +1,0 @@
-ExamHuman
-ExamTree
-ExamInteger
-ExamFraction
-ExamComplex

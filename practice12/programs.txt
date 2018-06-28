@@ -1,4 +1,0 @@
-ExamCalculator
-ExamCar
-ExamDigitalTV
-ExamPowerTool

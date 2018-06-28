@@ -1,1 +1,0 @@
-ExamGMousePick.html

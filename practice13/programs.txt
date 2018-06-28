@@ -1,2 +1,0 @@
-ExamCalculator2
-ExamStringMethod

@@ -1,3 +1,0 @@
-ExamSub2
-ExamMul2
-ExamDiv2
