@@ -7,7 +7,7 @@ class ExamKeyboardInput{
 		for(;A;){
 			try{
 				BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-				System.out.println("> ");
+				System.out.print("> ");
 				String s = br.readLine();
 				if(s.equals("bye"))
 					System.out.println("バイバイ");
